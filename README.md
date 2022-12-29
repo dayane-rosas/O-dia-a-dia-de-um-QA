@@ -1,5 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/dayane-rosas)
-# O-dia-a-dia-de-um-QA
 
 <div>
   <h1 align="left">
