@@ -16,7 +16,7 @@
   <p align="left">
     Nesse repositório contém os arquivos do desafio prático Dia a Dia de um QA do <b>Bootcamp GFT Quality Assurance Para Mulheres da DIO </b>, solicitado pela Instrutora: <b>Carolina Sanatana Louzada</b>.</p>
     
-    - Documentos gerados. 
+- Confira os documentos gerados: 
   - <a href='https://lattes.cnpq.br/1373785563610025'>Plano de trabalho de desenvolvimento e o Ciclo de vida do bug </a>
   - <a href='https://lattes.cnpq.br/1373785563610025'>Algumas User Stories do sistema </a>
   - <a href='https://lattes.cnpq.br/1373785563610025'>Alguns Casos de Testes utilizando a técnica step-by-step </a>
