@@ -1,6 +1,6 @@
-Feature: Cliente cadastrado entrar na loja e adicionar produto no carrinho
-        @TestCaseKey=SLS-T1
-        Scenario: Cliente cadastrado entrar na loja e adicionar produto no carrinho
+Feature: Login
+        @TestCaseKey=SWG-T1
+        Scenario: Cliente com cadastro e realiza login
         
               Acessar Url https://www.saucedemo.com/ Usuário deve visualizar tela de login
             Given que o cliente possui uma conta no sistema
