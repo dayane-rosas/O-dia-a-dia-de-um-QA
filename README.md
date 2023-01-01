@@ -20,9 +20,9 @@
   - <a href='https://lattes.cnpq.br/1373785563610025'>Plano de trabalho de trabalho e fluxo de trabalho</a>
   - <a href='https://lattes.cnpq.br/1373785563610025'>Mind-map das user story </a>
   - <a href='https://lattes.cnpq.br/1373785563610025'>User Story e Casos de Testes-steb by step e BDD</a>
-  - <a href='https://lattes.cnpq.br/1373785563610025'>4. Script BDD - Gherkin</a>
+  - <a href='https://lattes.cnpq.br/1373785563610025'>Script BDD - Gherkin</a>
   
   - Sistema analisado:
-  <p align="right">
+  <p align="left">
     <a href="https://www.saucedemo.com/"> SwagLabs</a>
   
