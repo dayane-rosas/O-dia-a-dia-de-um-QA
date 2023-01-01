@@ -22,7 +22,7 @@
   - <a href='https://lattes.cnpq.br/1373785563610025'>User Story e Casos de Testes-steb by step e BDD</a>
   - <a href='https://lattes.cnpq.br/1373785563610025'>Script BDD - Gherkin</a>
   
-  - Sistema analisado:
+  <b> ⭐️ Sistema analisado:</b>
   <p align="left">
     <a href="https://www.saucedemo.com/"> SwagLabs</a>
   
