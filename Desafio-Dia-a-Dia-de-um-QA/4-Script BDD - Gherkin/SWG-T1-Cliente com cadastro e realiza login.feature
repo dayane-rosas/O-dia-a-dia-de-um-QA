@@ -3,8 +3,7 @@ Feature: Cliente cadastrado entrar na loja e adicionar produto no carrinho
         Scenario: Cliente cadastrado entrar na loja e adicionar produto no carrinho
         
               Acessar Url https://www.saucedemo.com/ Usuário deve visualizar tela de login
-            Given que eu acesso a Url https://www.saucedemo.com/
-              And abro a tela de login
-             When digitar o usuário "standard_user"
-              And e a senha "secret_sauce"
-             Then deve acessar a página de compras
+            Given que o cliente possui uma conta no sistema
+              And ele acessa a página de login
+              And adicione username e senha correto
+             Then será direcionado a tela inicial do sistema com produtos
