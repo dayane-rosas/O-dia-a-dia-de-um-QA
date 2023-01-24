@@ -23,6 +23,6 @@
   - <a href='https://github.com/dayane-rosas/O-dia-a-dia-de-um-QA/tree/main/Desafio-Dia-a-Dia-de-um-QA/4-Script%20BDD%20-%20Gherkin'>Script BDD - Gherkin</a>
   
 <b> ⭐️ Sistema analisado:</b>
-  <p align="left">
-    <a href="https://www.saucedemo.com/"> SwagLabs</a>
+  
+   - <a href="https://www.saucedemo.com/">SwagLabs</a>
   
